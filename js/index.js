@@ -31,6 +31,25 @@
 //     console.log(value+ ';' + person[value])
 // }
 
-let currentTime = new Date()
-var wantedItems = {hour : 'numeric' , minute : 'numeric' ,second : 'numeric'}
-console.log(currentTime.toLocaleTimeString("en-US", wantedItems))
+// let currentTime = new Date()
+// var wantedItems = {hour : 'numeric' , minute : 'numeric' ,second : 'numeric'}
+// console.log(currentTime.toLocaleTimeString("en-US", wantedItems))
+
+
+// function cObject(name,lname,age,cls){
+//   this.firstName = name 
+//   this.lastName = lname
+//   this.age = age
+//   this.class = cls
+// }
+
+// const callingC1 = new cObject("Danish","Chouhan","17","11th")
+// document.write(callingC1.firstName + " ")
+
+// const callingC2 = new cObject("hamja","Chouhan","9","3rd")
+// document.write(callingC2.firstName + " ")
+// const callingC3 = new cObject("farat","Chouhan","13","6th")
+// document.write(callingC3.firstName + " ")
+// const callingC4 = new cObject("farah","Chouhan","24","graduated")
+// document.write(callingC4.firstName + " ")
+
